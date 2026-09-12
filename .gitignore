@@ -13,3 +13,14 @@ results_*/
 .vscode/
 data/cache/
 *.log
+
+# Supplementary: PDF only on GitHub; TeX stays local
+supplement/*.tex
+supplement/*.bib
+supplement/*.sty
+supplement/*.cls
+supplement/*.aux
+supplement/*.bbl
+supplement/*.blg
+supplement/*.out
+supplement/*.synctex.gz
