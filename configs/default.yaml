@@ -1,0 +1,24 @@
+alpha: 0.1
+K: 5
+n0: 30
+seeds: 5
+datasets:
+  - abalone
+  - california
+  - bike
+  - cpu
+  - wine
+  - energy
+  - airfoil
+  - superconductor
+regressors:
+  - mlp
+  - xgboost
+  - rf
+methods:
+  - split
+  - cqr
+  - locally_adaptive
+  - mondrian
+  - densitycal
+  - calibrated_mixup
