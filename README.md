@@ -54,9 +54,9 @@ Bins are occupancy strata on the predicted value, not rare-target strata. Relati
 
 ## Optional supplementary material
 
-[`supplement/appendix.pdf`](supplement/appendix.pdf) is extra. The submitted PDF is self-contained: it already carries the identity, the one-sided floor, the algorithm, Theorems 1–3 with proofs, the coverage and width tables, the per-dataset grids, the paired tests, the interpolation ablation, and the sparsest-bin figure.
+[`supplement/appendix.pdf`](supplement/appendix.pdf) is extra. The conference PDF is self-contained: it already carries the identity, the one-sided floor, the algorithm, Theorems 1–3 with proofs, the coverage and width tables, the per-dataset grids, the paired tests, the interpolation ablation, and the sparsest-bin figure.
 
-What remains in the supplement is the longer side algebra (width inflation and the local-quantile expansion) and a reprint of tables that already live in the main PDF. A reviewer who never opens this file is not missing a load-bearing claim.
+What remains in the supplement is the longer side algebra (width inflation and the local-quantile expansion) and a reprint of tables that already live in the main PDF. Open this file only for the longer side algebra.
 
 ---
 
