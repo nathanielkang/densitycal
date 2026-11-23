@@ -14,6 +14,8 @@ DensityCal bins the predicted range, takes a local residual quantile in each bin
   <a href="#quick-start"><strong>Quick start</strong></a>
   &nbsp;·&nbsp;
   <a href="#layout"><strong>Layout</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#citation"><strong>Citation</strong></a>
 </p>
 
 ---
@@ -88,4 +90,20 @@ scripts/           smoke test and experiment driver
 configs/           default grid
 docs/figures/      manuscript figures used in this README
 supplement/        optional appendix PDF
+```
+
+## Citation
+
+If you use this code or the method, please cite:
+
+```bibtex
+@inproceedings{niu2027densitycal,
+  title     = {Well-Calibrated Yet Unfair: How Standard Conformal Prediction Fails Along the Predicted-Value Range},
+  author    = {Niu, Weijie and Stiller, Burkhard and Kang, Nathaniel},
+  booktitle = {Proceedings of the 42nd ACM/SIGAPP Symposium on Applied Computing (SAC '27)},
+  year      = {2027},
+  address   = {Gwangju, Republic of Korea},
+  publisher = {ACM},
+  note      = {To appear}
+}
 ```
